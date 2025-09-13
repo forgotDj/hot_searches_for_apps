@@ -191,3 +191,33 @@
 
 + [阿里云ECS vs 腾讯云CVM：2核4G服务器性能实测对比 (2025)](https://blog.csdn.net/Clownseven/article/details/151568965)
 
++ [篮球论坛|基于SprinBoot+vue的篮球论坛系统(源码+数据库+文档)](https://blog.csdn.net/m0_51868342/article/details/151648164)
+
++ [企业客户信息反馈|基于SprinBoot+vue的企业客户信息反馈(源码+数据库+文档)](https://blog.csdn.net/2301_79206800/article/details/151644246)
+
++ [【Linux】【实战向】Linux 进程替换避坑指南：从理解 bash 阻塞等待，到亲手实现能执行 ls/cd 的 Shell](https://blog.csdn.net/wheeldown/article/details/151647501)
+
++ [Android SystemServer 系列专题【篇五：UserController用户状态控制】](https://blog.csdn.net/qq_27672101/article/details/151627318)
+
++ [计算机视觉进阶教学之图像投影(透视)变换](https://blog.csdn.net/m0_74977182/article/details/151587573)
+
++ [Spring框架—Spring的IOC核心技术](https://blog.csdn.net/2401_84284464/article/details/151334376)
+
++ [硬件开发_基于物联网的沼气池环境监测系统](https://blog.csdn.net/weixin_45732499/article/details/151574932)
+
++ [高效计算的源泉：深入浅出冯诺依曼模型与操作系统的管理艺术 —— 构建稳定、高效的应用基石 【底层逻辑/性能优化】](https://blog.csdn.net/2401_82924480/article/details/150637865)
+
++ [【网络编程】TCP 服务器并发编程：多进程、线程池与守护进程实践](https://blog.csdn.net/2401_87944878/article/details/150933406)
+
++ [前端引入的JS加载失败页面功能无法使用？JS加载失败的终极解决方案](https://blog.csdn.net/lhmyy521125/article/details/151628199)
+
++ [【AI大模型前沿】腾讯混元Dense模型：从智能座舱到客服机器人，用0.5B参数打穿全场景](https://blog.csdn.net/xiaobing259/article/details/151315575)
+
++ [嵌入式 - ARM5](https://blog.csdn.net/2301_80286382/article/details/151587507)
+
++ [【论文笔记】RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar](https://blog.csdn.net/weixin_45657478/article/details/151619814)
+
++ [从ENIAC到Linux：计算机技术与商业模式的协同演进](https://blog.csdn.net/2502_91499791/article/details/151628239)
+
++ [国家网络安全通报中心：重点防范境外恶意网址和恶意 IP](https://blog.csdn.net/KKKlucifer/article/details/151617532)
+
